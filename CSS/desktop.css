@@ -1,0 +1,15 @@
+.product-cards--container{
+    max-width: 900px;
+}
+
+.main-tables-container{
+    max-width: 900px;
+}
+
+.main-plans-container{
+    max-width: 900px;
+}
+
+.plans-container__card{
+    margin: 25px;
+}
